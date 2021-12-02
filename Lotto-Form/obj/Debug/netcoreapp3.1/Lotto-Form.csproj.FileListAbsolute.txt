@@ -1,0 +1,16 @@
+C:\Users\awikl\Desktop\Lexicon\C#\C# projekt\Lotto-Form\Lotto-Form\bin\Debug\netcoreapp3.1\Lotto-Form.exe
+C:\Users\awikl\Desktop\Lexicon\C#\C# projekt\Lotto-Form\Lotto-Form\bin\Debug\netcoreapp3.1\Lotto-Form.deps.json
+C:\Users\awikl\Desktop\Lexicon\C#\C# projekt\Lotto-Form\Lotto-Form\bin\Debug\netcoreapp3.1\Lotto-Form.runtimeconfig.json
+C:\Users\awikl\Desktop\Lexicon\C#\C# projekt\Lotto-Form\Lotto-Form\bin\Debug\netcoreapp3.1\Lotto-Form.runtimeconfig.dev.json
+C:\Users\awikl\Desktop\Lexicon\C#\C# projekt\Lotto-Form\Lotto-Form\bin\Debug\netcoreapp3.1\Lotto-Form.dll
+C:\Users\awikl\Desktop\Lexicon\C#\C# projekt\Lotto-Form\Lotto-Form\bin\Debug\netcoreapp3.1\Lotto-Form.pdb
+C:\Users\awikl\Desktop\Lexicon\C#\C# projekt\Lotto-Form\Lotto-Form\obj\Debug\netcoreapp3.1\Lotto-Form.csproj.AssemblyReference.cache
+C:\Users\awikl\Desktop\Lexicon\C#\C# projekt\Lotto-Form\Lotto-Form\obj\Debug\netcoreapp3.1\Lotto_Form.Form1.resources
+C:\Users\awikl\Desktop\Lexicon\C#\C# projekt\Lotto-Form\Lotto-Form\obj\Debug\netcoreapp3.1\Lotto-Form.csproj.GenerateResource.cache
+C:\Users\awikl\Desktop\Lexicon\C#\C# projekt\Lotto-Form\Lotto-Form\obj\Debug\netcoreapp3.1\Lotto-Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awikl\Desktop\Lexicon\C#\C# projekt\Lotto-Form\Lotto-Form\obj\Debug\netcoreapp3.1\Lotto-Form.AssemblyInfoInputs.cache
+C:\Users\awikl\Desktop\Lexicon\C#\C# projekt\Lotto-Form\Lotto-Form\obj\Debug\netcoreapp3.1\Lotto-Form.AssemblyInfo.cs
+C:\Users\awikl\Desktop\Lexicon\C#\C# projekt\Lotto-Form\Lotto-Form\obj\Debug\netcoreapp3.1\Lotto-Form.csproj.CoreCompileInputs.cache
+C:\Users\awikl\Desktop\Lexicon\C#\C# projekt\Lotto-Form\Lotto-Form\obj\Debug\netcoreapp3.1\Lotto-Form.dll
+C:\Users\awikl\Desktop\Lexicon\C#\C# projekt\Lotto-Form\Lotto-Form\obj\Debug\netcoreapp3.1\Lotto-Form.pdb
+C:\Users\awikl\Desktop\Lexicon\C#\C# projekt\Lotto-Form\Lotto-Form\obj\Debug\netcoreapp3.1\Lotto-Form.genruntimeconfig.cache
